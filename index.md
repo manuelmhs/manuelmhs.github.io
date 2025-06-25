@@ -23,4 +23,4 @@ It uses a *dynamic programming*, *backtracking* algorithm to determine if it's p
 
 This was one of my first projects, and an introduction to topics like C memory management, algorithms, computational complexity and the usage of a wide range of Python features like error handling, OOP, pytest, etc.
 
-[See full documentation.](https://github.com/manuelmhs/word-search-generator-cli)
+[See full documentation.](https://github.com/manuelmhs/word-search-generator-cli){:target="_blank" rel="noopener noreferrer"}
