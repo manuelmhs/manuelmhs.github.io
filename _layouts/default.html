@@ -19,9 +19,9 @@
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_downloads %}
-        <a href="{{ site.ghlink }}" class="btn">Github</a>
-        <a href="{{ site.lilink }}" class="btn">Linkedin</a>
-        <a href="{{ site.cvlink }}" class="btn">Resume / CV</a>
+        <a href="{{ site.ghlink }}" class="btn" target="_blank" rel="noopener noreferrer">Github</a>
+        <a href="{{ site.lilink }}" class="btn" target="_blank" rel="noopener noreferrer">Linkedin</a>
+        <a href="{{ site.cvlink }}" class="btn" target="_blank" rel="noopener noreferrer">Resume / CV</a>
       {% endif %}
     </header>
 
