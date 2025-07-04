@@ -24,3 +24,14 @@ It uses a *dynamic programming*, *backtracking* algorithm to determine if it's p
 This was one of my first projects, and an introduction to topics like C memory management, algorithms, computational complexity and the usage of a wide range of Python features like error handling, OOP, pytest, etc.
 
 [See full documentation.](https://github.com/manuelmhs/word-search-generator-cli){:target="_blank" rel="noopener noreferrer"}
+
+## Coding algorithms and data structures
+#### Python
+
+This is a collection of various **algorithms problems** I solved for practice.
+
+The idea was to gain experience programming all sorts of algorithms, involving different logical/maths problems, data structures, iterative/recursive algorithms, DP (memoization, tabulation), backtracking, etc.
+
+Also, to be able to put into practice theoretical concepts studied in Computer Science, like computational complexity and practical efficiency.
+
+[See full documentation.](https://github.com/manuelmhs/algorithms-practice){:target="_blank" rel="noopener noreferrer"}
