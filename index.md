@@ -25,10 +25,10 @@ This was one of my first projects, and an introduction to topics like C memory m
 
 [See full documentation.](https://github.com/manuelmhs/word-search-generator-cli){:target="_blank" rel="noopener noreferrer"}
 
-## Coding algorithms and data structures
+## Coding Algorithms and Data Structures
 #### Python
 
-This is a collection of various **algorithms problems** I solved for practice.
+This is a collection of various **algorithm problems** I solved for practice.
 
 The idea was to gain experience programming all sorts of algorithms, involving different logical/maths problems, data structures, iterative/recursive algorithms, DP (memoization, tabulation), backtracking, etc.
 
